@@ -1,0 +1,125 @@
+.navigation {
+    background-color: #F0F0F0;
+    display: flex;
+    margin: 0 0%;
+    height: 150px;
+}
+
+.navOptions {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: american typewriter;
+    font-size: 30px;
+    font-style: semibold;
+    color: #B48E8E;
+}
+
+a {
+    text-decoration: none;
+    font-family: american typewriter;
+    font-size: 30px;
+    font-style: semibold;
+    color: #B48E8E;
+
+}
+
+.navItem {
+    width: 10%;
+    cursor: pointer;
+}
+
+.highlight {
+    cursor: pointer;
+    text-decoration: none;
+    font-family: phosphate;
+    font-size: 150px;
+    font-style: inline;
+    color: #717E6E;
+    margin: 0px 5px
+}
+
+.display-4 {
+    font-family: phosphate;
+    font-size: 100px;
+    font-style: inline;
+    color: #717E6E;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.headingTwo {
+    font-family: american typewriter;
+    font-size: 30px;
+    font-style: semibold;
+    color: #B48E8E;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+p{
+    font-family: american typewriter;
+    font-size: 30px;
+    font-style: semibold;
+    color: grey;
+    text-align: center;
+
+}
+
+.lead {
+    font-family: american typewriter;
+    font-size: 30px;
+    color: grey;
+    display: flex;
+    width: 100%;
+    text-align: center;
+
+}
+
+.btn-primary {
+    color: #B48E8E;
+    background-color: white;
+    border: none;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.greenBox {
+    background-color: #D6DBD5;
+}
+
+.col-sm{
+    font-family: american typewriter;
+    font-size: 30px;
+    font-style: semibold;
+    color: grey;
+    text-align: center;
+}
+
+.pinkBox {
+    background-color: #EDE3DF;
+    
+}
+
+.list-group {
+    text-align: center;
+    font-family: american typewriter;
+    font-size: 20px;
+    color: grey;
+    background-color: #EDE3DF;
+}
+
+.col {
+  align-items: center;
+}
+
+.jumbotron{
+    background-color: #D6DBD5;
+}
